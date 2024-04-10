@@ -16,7 +16,7 @@ Hi there! 👋 I'm Felippe Teracini, a Software Developer based in Brazil. I'm p
 ## 💼 Work Experience
 - **Team Leader** at BTG Pactual, 1 year
 
-  Responsible for client interaction, team management and project planning.
+  Responsible for client interaction, team management, project planning and architecture.
 
 - **Backend Developer** at BTG Pactual, 1 year
 
